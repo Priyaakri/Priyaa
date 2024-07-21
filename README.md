@@ -1,2 +1,3 @@
 # Priyaa
-this is  my first repostry
+this is  my first reposetry
+I am Priya
